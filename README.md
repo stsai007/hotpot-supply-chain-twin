@@ -30,8 +30,6 @@ Following standard Digital Twin architecture, this app was created to solve spec
 
 ### Horizon 1: Daily Manufacturing & Production Scheduling (Tab 1)
 
-![Hotpot Digital Twin MVP Demo](tab1.gif)
-
 <img src="tab1.gif" width="80%" alt="MVP Demo">
 
 #### Current Workflow & Business Bottlenecks:
@@ -48,8 +46,6 @@ Following standard Digital Twin architecture, this app was created to solve spec
 
 ### Horizon 2: Weekly Procurement & Market-Aware Sourcing (Tab 2)
 
-![Hotpot Digital Twin MVP Demo](tab2.gif)
-
 <img src="tab2.gif" width="80%" alt="MVP Demo">
 
 #### Current Workflow & Business Bottlenecks:
@@ -64,8 +60,6 @@ Following standard Digital Twin architecture, this app was created to solve spec
 ---
 
 ### Horizon 3: Intercompany Cold-Chain Logistics & Carrier Bidding (Tab 3)
-
-![Hotpot Digital Twin MVP Demo](tab3.gif)
 
 <img src="tab3.gif" width="80%" alt="MVP Demo">
 
