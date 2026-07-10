@@ -204,11 +204,11 @@ with tab2:
     st.header("Medium-Term Raw Material Procurement Planning")
     st.markdown("Generates optimized raw material supplier purchase orders integrated with **BLS Producer Price Index (PPI)** Commodity Intelligence.")
     
-    procure_day = st.selectbox("Select Current Ordering Cadence Day", ["Monday (Replenish for Tue-Wed)", "Wednesday (Replenish for Thu-Sun Peak)"])
+    procure_day = st.selectbox("Select Current Ordering Cadence Day", ["Monday (Replenish for Mon-Wed)", "Wednesday (Replenish for Thu-Sun Peak)"])
     
     if st.button("🛒 Generate Market-Aware Purchase Order", type="secondary"):
         with st.spinner("Calculating safety stocks and analyzing PPI market price trends..."):
-            multiplier = 2 if "Monday" in procure_day else 4
+            multiplier = 3 if "Monday" in procure_day else 4
             simulated_socal_pots = 2450 * multiplier
             
             cabbage_lbs_needed = (simulated_socal_pots * 165) / 453.59
