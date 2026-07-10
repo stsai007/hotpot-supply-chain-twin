@@ -30,6 +30,10 @@ Following standard Digital Twin architecture, this app was created to solve spec
 
 ### Horizon 1: Daily Manufacturing & Production Scheduling (Tab 1)
 
+![Hotpot Digital Twin MVP Demo](tab1.gif)
+
+<img src="tab1.gif" width="80%" alt="MVP Demo">
+
 #### Current Workflow & Business Bottlenecks:
 * **Heuristic Forecasting:** Production leaders rely on rough, manual estimations to determine daily Napa Cabbage prep volumes, leading to high variance and waste.
 * **Labor Friction & Inefficiencies:** To mitigate risk, workload is fragmented: the night shift pre-cuts a portion, and a dedicated morning shift worker must arrive **1 hour early** just to cut cabbage before the assembly line starts. 
@@ -44,6 +48,10 @@ Following standard Digital Twin architecture, this app was created to solve spec
 
 ### Horizon 2: Weekly Procurement & Market-Aware Sourcing (Tab 2)
 
+![Hotpot Digital Twin MVP Demo](tab2.gif)
+
+<img src="tab2.gif" width="80%" alt="MVP Demo">
+
 #### Current Workflow & Business Bottlenecks:
 * **Manual Inventory Audits:** Procurement staff must physically walk into the cold storage/refrigerator daily to check cabbage stock levels and estimate order quantities.
 * **Siloed Communication:** Northern California (NorCal) Supply Chain managers manually place orders to Southern California (SoCal), requiring procurement teams to manually consolidate quantities on spreadsheets before placing orders with vendors.
@@ -56,6 +64,10 @@ Following standard Digital Twin architecture, this app was created to solve spec
 ---
 
 ### Horizon 3: Intercompany Cold-Chain Logistics & Carrier Bidding (Tab 3)
+
+![Hotpot Digital Twin MVP Demo](tab3.gif)
+
+<img src="tab3.gif" width="80%" alt="MVP Demo">
 
 #### Current Workflow & Business Bottlenecks:
 * **Passive Order Fulfillment:** NorCal branches submit orders via email. A Central Kitchen leader must manually set aside and organize the allocated pallets into a reserve zone whenever they have free time, leading to dock clutter and potential cold-chain exposure.
