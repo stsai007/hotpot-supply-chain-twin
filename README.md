@@ -20,7 +20,7 @@ An Executive-level multi-horizon optimization simulator powered by **Google Gemi
 ## Data Telemetry & Architecture Transparency
 To maintain enterprise-grade compliance while operating within academic and API limits, the system operates on a dual-layer data telemetry structure:
 * **Real-Time API Data (Dynamic):** Tab 1 dynamically calls the **Open-Meteo API** to fetch live/historical temperatures to drive demand modifiers. Tab 2 deploys a live **Gemini AI Market Scout Agent** to query real-time USDA California agricultural spot prices.
-* **Simulated & Baseline Data:** Historical sales datasets are simulated to match multi-unit restaurant patterns. Macroeconomic trends in Tab 2 utilize actual historical data from the **U.S. Bureau of Labor Statistics (BLS)** for Fresh Vegetables (PPI Commodity Code 0113-02). Freight bidding in Tab 3 is anchored around true 2026 U.S. West Coast reefer shipping point averages ($3.15 - $3.45 / Mile).
+* **Simulated & Baseline Data:** Historical sales datasets are simulated to match multi-unit restaurant patterns. Macroeconomic trends in Tab 2 utilize actual historical data from the **U.S. Bureau of Labor Statistics (BLS)** for Fresh Vegetables (PPI Commodity Code 0113-02). Freight bidding in Tab 3 simulates a multi-drop long-haul route (SoCal CK ➔ NorCal Hubs ➔ Seattle Station), integrating carrier scorecard telemetry such as On-Time Delivery (OTD) rates and FSMA continuous temperature compliance metrics.
 
 ---
 
