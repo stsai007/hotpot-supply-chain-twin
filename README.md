@@ -24,6 +24,19 @@ To maintain enterprise-grade compliance while operating within academic and API 
 
 ---
 
+---
+
+## Live MVP Demonstration
+
+Before diving into the architectural details, check out the end-to-end operational capabilities of the Digital Twin framework:
+
+### 📺 1-Minute Executive Walkthrough
+Click the badge below to watch the full HD video walkthrough with audio commentary explaining the procurement and labor logic:
+
+[![Watch the video](https://img.shields.io/badge/▶_Watch_Full_HD_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/brLweS4rgec?si=Dzx6aiH5eeyQzTem)
+
+---
+
 ## Core Digital Twin Value Proposition: Current vs. Twin Workflow
 
 Following standard Digital Twin architecture, this app was created to solve specific systemic friction points across three major operational horizons:
