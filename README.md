@@ -24,8 +24,6 @@ To maintain enterprise-grade compliance while operating within academic and API 
 
 ---
 
----
-
 ## Live MVP Demonstration
 
 Before diving into the architectural details, check out the end-to-end operational capabilities of the Digital Twin framework:
